@@ -5,12 +5,12 @@
 
 <!-- ===================== TYPING ANIMATION ===================== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Booting+neural+interface...;%3E+Access+granted%2C+welcome+back.;Back-end+Developer+%7C+AI+Enthusiast;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Booting+Xavier+interface...;%3E+Access+granted%2C+welcome+back.;Back-end+Developer+%7C+Software+Enthusiast;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU-USUARIO&label=SYSTEM%20SCANS&color=00fff2&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Snr-xavier&label=SYSTEM%20SCANS&color=00fff2&style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-ONLINE-00fff2?style=for-the-badge&labelColor=0a0a0a)
 ![License](https://img.shields.io/badge/LICENSE-MIT-00fff2?style=for-the-badge&labelColor=0a0a0a)
 
@@ -103,12 +103,12 @@ user@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?Arthur Xavier=Snr-Xavier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c3d1d9&ring_color=00fff2" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?rthur Xavier=Snr-Xavier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c3d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Snr-Xavier&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&icon_color=00fff2&text_color=c3d1d9&ring_color=00fff2" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Snr-Xavier&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00fff2&text_color=c3d1d9" width="49%"/>
 
-<img src="https://streak-stats.demolab.com?Arthur Xavier=Snr-Xavier&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="70%"/>
+<img src="https://streak-stats.demolab.com?username=Snr-Xavier&theme=tokyonight&hide_border=true&background=0d1117&ring=00fff2&fire=00fff2&currStreakLabel=00fff2" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?Arthur Xavier=Snr-Xavier&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff&area=true&area_color=00fff2" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Snr-Xavier&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00fff2&line=00fff2&point=ffffff&area=true&area_color=00fff2" width="98%"/>
 
 </div>
 
@@ -120,7 +120,7 @@ user@dev-machine:~$ _
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Snr-Xavier/Snr-Xavier/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Snr-Xavier/Snr-Xavier2/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
